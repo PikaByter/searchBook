@@ -1,0 +1,18 @@
+{{define "result.html"}}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Result</title>
+</head>
+<body>
+<h2>结果页面，查找结果为：</h2>
+{{range $index,$info:=.data}}
+<h4>序号：{{$index}}  名称：{{$info}}</h4>
+{{end}}
+</body>
+</html>
+{{end}}
