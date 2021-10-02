@@ -13,3 +13,11 @@
 * 给我自己提供一个检索电子书的方式
 * 给我朋友提供一个检索电子书的方式，他们检索后，可以委托我下载再传给他们
 
+
+
+示例：
+
+![image-20211002114503668](https://gitee.com/AndrewYu/PicGo/raw/master/img/image-20211002114503668.png)
+
+![image-20211002114525657](https://gitee.com/AndrewYu/PicGo/raw/master/img/image-20211002114525657.png)
+
